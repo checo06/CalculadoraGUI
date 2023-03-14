@@ -10,3 +10,7 @@ This is the UML diagram
 The calculator executable jar
 
 [download jar](https://github.com/checo06/CalculadoraGUI/raw/dev/_etc/CalculadoraGUI.jar)
+
+Its necessary a JRE or JDK version 1.7 or above installed.
+
+To execute double click the jar file.
