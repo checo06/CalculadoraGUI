@@ -3,8 +3,10 @@ A calculator based on state machine as part of my work as a instructor. The GUI 
 
 ## UML State Diagram
 This is the UML diagram
+
 ![State Diagram](_etc/Calculadora_estados.jpg?raw=true "State Diagram")
 
 ## Download
-The calculator executable jar 
-[jar](https://github.com/checo06/CalculadoraGUI/raw/dev/_etc/CalculadoraGUI.jar)
+The calculator executable jar
+
+[download jar](https://github.com/checo06/CalculadoraGUI/raw/dev/_etc/CalculadoraGUI.jar)
