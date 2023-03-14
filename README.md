@@ -7,6 +7,7 @@ This is the UML diagram
 ![State Diagram](_etc/Calculadora_estados.jpg?raw=true "State Diagram")
 
 This is a screensho of the calculator
+
 ![Swing State Calculator](_etc/calculadora_states_swing.png?raw=true "Swing State Calculator")
 
 ## Download
