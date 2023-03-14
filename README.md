@@ -7,4 +7,4 @@ This is the UML diagram
 
 ## Download
 The calculator executable jar 
-![State Diagram](_etc/CalculadoraGUI.jar)
+![jar](_etc/CalculadoraGUI.jar)
